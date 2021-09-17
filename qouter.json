@@ -1,4 +1,5 @@
- {
+[
+    {
         "by": "A. France",
         "quote": "Test mamang"
     },
@@ -533,5 +534,9 @@
     {
         "by": "Zig Zaglar",
         "quote": "semangka"
+    },
+    {
+        "by": "Fuller",
+        "quote": "Contoh yang baik adalah nasihat terbaik."
     }
 ]
